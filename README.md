@@ -24,7 +24,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone[ https://github.com/your-username/travelease.git](https://github.com/YahiaSonbol/GOE_Assesment.git)
+   git clone[ https://github.com/your-username/travelease.git](https://github.com/YahiaSonbol/GOE_Assesment.git)](https://github.com/YahiaSonbol/goe.git)
    cd goe  
 2. **Install the dependencies:**
 
